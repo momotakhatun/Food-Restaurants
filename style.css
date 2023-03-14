@@ -22,11 +22,7 @@ header{
     top: 0;
     left: 0;
     z-index: 10;
-    width: 100%;
-    /* display: -ms-flexbox;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -o-flex; */
+    width: 100%;   
     display: flex;
     justify-content: space-between;
     align-items: center;
