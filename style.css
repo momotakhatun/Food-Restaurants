@@ -202,6 +202,9 @@ section p{
     .about-content li{
         padding: 8px;
     }
+    .about-content{
+        flex-wrap: wrap;
+    }
 }
 /* services-area */
 #services{
